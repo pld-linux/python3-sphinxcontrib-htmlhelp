@@ -6,7 +6,7 @@ Summary:	Sphinx extension which renders HMTL help files
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa tworzące pliki pomocy HTML
 Name:		python3-sphinxcontrib-htmlhelp
 Version:	2.0.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-htmlhelp/
